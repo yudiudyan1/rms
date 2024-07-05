@@ -1,0 +1,9 @@
+# Ignoring file
+.env
+
+__pycache__/
+
+*/migrations/
+
+deploy.sh
+nohup.out
